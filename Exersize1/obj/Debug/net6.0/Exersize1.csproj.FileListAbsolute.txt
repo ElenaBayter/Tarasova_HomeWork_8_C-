@@ -1,0 +1,15 @@
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\bin\Debug\net6.0\Exersize1.exe
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\bin\Debug\net6.0\Exersize1.deps.json
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\bin\Debug\net6.0\Exersize1.runtimeconfig.json
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\bin\Debug\net6.0\Exersize1.dll
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\bin\Debug\net6.0\Exersize1.pdb
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.csproj.AssemblyReference.cache
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.AssemblyInfoInputs.cache
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.AssemblyInfo.cs
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.csproj.CoreCompileInputs.cache
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.dll
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\refint\Exersize1.dll
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.pdb
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\Exersize1.genruntimeconfig.cache
+C:\Users\Innovations Solution\Desktop\HW8\Exersize1\obj\Debug\net6.0\ref\Exersize1.dll
